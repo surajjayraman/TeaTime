@@ -28,6 +28,8 @@ import android.widget.TextView;
 
 import java.text.NumberFormat;
 
+// Modified for Espresso Test Framework Demo
+
 public class OrderActivity extends AppCompatActivity {
 
 
